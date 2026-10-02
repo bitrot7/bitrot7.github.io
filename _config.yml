@@ -2,3 +2,5 @@ title: Mathematics & Computer Science Blog
 description: Mathematics and computer science as applied to everything from Radio Astronomy to Finance
 theme: minima
 markdown: kramdown
+baseurl: ""
+url: "https://github.io"

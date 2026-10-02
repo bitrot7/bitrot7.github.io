@@ -11,21 +11,21 @@ It is becoming increasingly common for automated finance channels to manually al
 For example here is a screenshot from a channel I occassionally watch:
 
 
-![alt text](image.png)
+![alt text]({{ '/assets/images/post1/image.png' | relative_url }})
 
 Admittedly, this is three months later (10/02/2026), but here is the chart from FRED st louis on 10/02/2026:
 
 
-![alt text](image-1.png)
+![alt text]({{ '/assets/images/post1/image-1.png' | relative_url }})
 
 Notice how it looks almost identical except for the very edge of the trend line on the graph.  You may also be able to discern some line thickness changes. When the channel zooms in on its version of the graph you can see the manipulation clearly. Below is the channel on youtube zooming in on the doctored chart:
 
 
-![alt text](image-2.png)
+![alt text]({{ '/assets/images/post1/image-2.png' | relative_url }})
 
 Here is the real chart zoomed in to the same range (10/02/2026):
 
-![alt text](image-3.png)
+![alt text]({{ '/assets/images/post1/image-3.png' | relative_url }})
 
 Let me start by saying that this is a channel which I occasionally watched because some of the particular narratives do match to some degree the more thoughtful longterm bearish positions of people like Dalio and others.  
 
